@@ -43,5 +43,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllenSunilMathew&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenSunilMathew&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllenSunilMathew&theme=radical)
+![GitHub Streak](https://github.com/AllenSunilMathew/AllenSunilMathew/?user=AllenSunilMathew&theme=radical)
 

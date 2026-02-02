@@ -35,9 +35,9 @@
 
 ## 🔗 Connect with Me
 Let's stay in touch! 🌐  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-sunil-mathew/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername](https://www.instagram.com/_i_am__allen_?igsh=MTluMzBvbGIxYzV6dQ==))  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_i_am__allen_)
+ 
 
 You can also add: Twitter, Dev.to, or personal website.
 
@@ -48,9 +48,10 @@ Here are a few highlights:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Project A** | A  small hostel website using basic web tools| [Live / Repo](#https://amalgentshostel.netlify.app) |
-| **Project B** | Another interesting project with cool features. | [Live / Repo](#) |
-| **Project C** | Something innovative you built. | [Live / Repo](#) |
+| **Project A** | A small hostel website using basic web tools | [Live](https://amalgentshostel.netlify.app) |
+| **Project B** | Another interesting project with cool features | [Repo](#) |
+| **Project C** | Something innovative you built | [Repo](#) |
+
 
 > Tip: Add GIFs or screenshots of your projects to make this section visually appealing.
 

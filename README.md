@@ -34,7 +34,7 @@ A collaborative problem-solver who enjoys building projects, learning new techno
 ---
 
 ## 🔗 Socials
-- LinkedIn: [allen-sunil-mathew](https://www.linkedin.com/in/allen-sunil-mathew/)
+- LinkedIn: [https://www.linkedin.com/in/allen-sunil-mathew/)]
 - Instagram: [@yourusername](https://www.instagram.com/yourusername) ← replace with your handle
 
 You can also add Twitter, Dev.to, personal website, or other profiles here.

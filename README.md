@@ -37,7 +37,7 @@
 Let's stay in touch! 🌐  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-sunil-mathew/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername](https://www.instagram.com/_i_am__allen_?igsh=MTluMzBvbGIxYzV6dQ==))  
 
 You can also add: Twitter, Dev.to, or personal website.
 
@@ -48,7 +48,7 @@ Here are a few highlights:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Project A** | A short, catchy description about the project. | [Live / Repo](#) |
+| **Project A** | A  small hostel website using basic web tools| [Live / Repo](#https://amalgentshostel.netlify.app) |
 | **Project B** | Another interesting project with cool features. | [Live / Repo](#) |
 | **Project C** | Something innovative you built. | [Live / Repo](#) |
 
@@ -81,11 +81,5 @@ I love collaborating!
 ## ⚡ Fun Fact
 💡 I enjoy creating small projects just for fun, exploring new tools, and improving UI/UX experiences.  
 
----
-
-## ⚖️ License
-This repository is **open source**. Add a license of your choice (e.g., MIT) by creating a LICENSE file.  
-
----
 
 Thanks for visiting! Let’s **build something amazing together** ✨  

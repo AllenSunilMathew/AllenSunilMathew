@@ -38,6 +38,7 @@
 ![Render](https://img.shields.io/badge/Render-3D00FF?style=for-the-badge&logo=render&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?allensunilmathew=allensunilmathew&show_icons=true&theme=radical)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllenSunilMathew&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenSunilMathew&layout=compact&theme=radical)
